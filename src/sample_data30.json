@@ -1,0 +1,65 @@
+[
+  {
+    "id": 31,
+    "parent": 30,
+    "droppable": false,
+    "text": "main.cpp",
+    "data": {
+      "fileType": "cpp"
+    }
+  },
+  {
+    "id": 32,
+    "parent": 30,
+    "droppable": false,
+    "text": "desafio.java",
+    "data": {
+      "fileType": "java"
+    }
+  },
+  {
+    "id": 33,
+    "parent": 30,
+    "droppable": true,
+    "text": "libraries",
+    "data": {
+      "fileType": "folder"
+    }
+  },
+  {
+    "id": 34,
+    "parent": 33,
+    "droppable": false,
+    "text": "teste.js",
+    "data": {
+      "fileType": "js"
+    }
+  },
+  {
+    "id": 35,
+    "parent": 30,
+    "droppable": true,
+    "text": "dist",
+    "data": {
+      "fileType": "folder"
+    }
+  },
+  {
+    "id": 36,
+    "parent": 35,
+    "droppable": false,
+    "text": "programa.cs",
+    "data": {
+      "fileType": "cs"
+    }
+  },
+  {
+    "id": 37,
+    "parent": 35,
+    "droppable": false,
+    "text": "main.exe",
+    "data": {
+      "fileType": "exe"
+    }
+  }
+]
